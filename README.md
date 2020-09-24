@@ -1,5 +1,5 @@
 # 라면 끓이는 방법
-###이동규
+
 1. 물 550ml를 끓인 후 분말 수프의 후레이크를 넣는다.
 ![끓는 물](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxCdf8AeNU_zk1b9Zvl7mhE1W0CXYz0FCm_g&usqp=CAU)
 2. 물이 끓으면 면을 넣고 4분 30초간 조리한다.
